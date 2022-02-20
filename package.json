@@ -43,7 +43,9 @@
         "error",
         {
           "ignores": [
-            "Modal"
+            "Modal",
+            "Block",
+            "Results"
           ]
         }
       ]
